@@ -1,4 +1,4 @@
-from src.helper import *
+from helper import *
 
 
 def encrypt_message(message_string_object: BinaryString = message, e: int = key.e, n: int = key.n) -> list:

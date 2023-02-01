@@ -1,4 +1,4 @@
-from datatypes.datatypes import *
+from src.datatypes.datatypes import *
 
 nodes: int = 4
 
