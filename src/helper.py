@@ -1,6 +1,6 @@
 import random
 from rsa import newkeys as newkeys
-from datatypes.dataoperations import *
+from src.datatypes.dataoperations import *
 
 
 def generate_keys(size: int = 4) -> Key:
